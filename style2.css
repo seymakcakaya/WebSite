@@ -1,4 +1,4 @@
-.container{
+.container2{
   width: 600px;
   height: 100px;
   overflow: hidden;
@@ -6,7 +6,7 @@
   
 
 }
-.container span{
+.container2 span{
   font-size: 40px;
   position: absolute;
   font-weight: 600;
@@ -19,10 +19,10 @@ color: #8bd6a8;
   transform: translateY(-100px);
   opacity: 0;
 }
-.container span:nth-child(2){
+.container2 span:nth-child(2){
   animation-delay: 3s;
 }
-.container span:nth-child(3){
+.container2 span:nth-child(3){
   animation-delay: 6s;
 }
 
